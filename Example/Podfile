@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JZPlayer_Example' do
+  pod 'JZPlayer', :path => '../'
+
+  target 'JZPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
