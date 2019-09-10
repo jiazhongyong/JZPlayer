@@ -1,0 +1,16 @@
+PODS:
+  - JZPlayer (0.1.0)
+
+DEPENDENCIES:
+  - JZPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  JZPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JZPlayer: c8460ed255acafd8ad213b98795dfeac62faab6b
+
+PODFILE CHECKSUM: 8af3efd6cab9e04c75e66c39926ace3dc2f018ba
+
+COCOAPODS: 1.7.2

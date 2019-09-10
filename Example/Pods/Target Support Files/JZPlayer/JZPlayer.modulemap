@@ -1,0 +1,6 @@
+framework module JZPlayer {
+  umbrella header "JZPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
